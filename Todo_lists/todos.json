@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Make a to-do list",
+    "done": true
+  },
+  {
+    "text": "Follow the list",
+    "done": false
+  }
+]
